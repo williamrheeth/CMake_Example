@@ -1,0 +1,2 @@
+C:/mingw64/bin/ar.exe qc libLIB.a CMakeFiles/LIB.dir/__/include/lib/lib.c.obj
+C:/mingw64/bin/ranlib.exe libLIB.a

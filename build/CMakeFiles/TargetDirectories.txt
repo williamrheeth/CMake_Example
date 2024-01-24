@@ -1,0 +1,6 @@
+C:/Users/1/Desktop/Uni/CMake_Example/build/CMakeFiles/edit_cache.dir
+C:/Users/1/Desktop/Uni/CMake_Example/build/CMakeFiles/rebuild_cache.dir
+C:/Users/1/Desktop/Uni/CMake_Example/build/src/CMakeFiles/main.dir
+C:/Users/1/Desktop/Uni/CMake_Example/build/src/CMakeFiles/LIB.dir
+C:/Users/1/Desktop/Uni/CMake_Example/build/src/CMakeFiles/edit_cache.dir
+C:/Users/1/Desktop/Uni/CMake_Example/build/src/CMakeFiles/rebuild_cache.dir
